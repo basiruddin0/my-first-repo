@@ -1,8 +1,6 @@
-.p{
+p{
     color: red;
-}
-
-.h1{
-
-    color: brown;
+    text-align: center;
+    background-color: black;
+    font-size: 45px;
 }
